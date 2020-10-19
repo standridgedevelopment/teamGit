@@ -5,7 +5,7 @@ body {
 
 /*============= TOP BAR HEADER =============*/
 .top-bar{
-  background: #7bb661
+  background: #af3a3a
   ;
   height: 2.8rem;
   padding: .5rem 0;
@@ -35,7 +35,7 @@ body {
 }
 .nav-link.active,
 .nav-link:hover {
-  color: #7bb661!important;
+  color: #cf2626!important;
 }
 
 
